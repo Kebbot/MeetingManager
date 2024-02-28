@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Exzamen_C3\Exzamen_C3\obj\Debug\net7.0\Exzamen_C3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Exzamen_C3\Exzamen_C3\obj\Debug\net7.0\Exzamen_C3.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exzamen_C3\Exzamen_C3\obj\Debug\net7.0\Exzamen_C3.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exzamen_C3\Exzamen_C3\obj\Debug\net7.0\Exzamen_C3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Exzamen_C3\Exzamen_C3\bin\Debug\net7.0\Exzamen_C3.exe
+C:\Users\Admin\source\repos\Exzamen_C3\Exzamen_C3\bin\Debug\net7.0\Exzamen_C3.deps.json
+C:\Users\Admin\source\repos\Exzamen_C3\Exzamen_C3\bin\Debug\net7.0\Exzamen_C3.runtimeconfig.json
+C:\Users\Admin\source\repos\Exzamen_C3\Exzamen_C3\bin\Debug\net7.0\Exzamen_C3.dll
+C:\Users\Admin\source\repos\Exzamen_C3\Exzamen_C3\bin\Debug\net7.0\Exzamen_C3.pdb
+C:\Users\Admin\source\repos\Exzamen_C3\Exzamen_C3\obj\Debug\net7.0\Exzamen_C3.dll
+C:\Users\Admin\source\repos\Exzamen_C3\Exzamen_C3\obj\Debug\net7.0\refint\Exzamen_C3.dll
+C:\Users\Admin\source\repos\Exzamen_C3\Exzamen_C3\obj\Debug\net7.0\Exzamen_C3.pdb
+C:\Users\Admin\source\repos\Exzamen_C3\Exzamen_C3\obj\Debug\net7.0\Exzamen_C3.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Exzamen_C3\Exzamen_C3\obj\Debug\net7.0\ref\Exzamen_C3.dll
